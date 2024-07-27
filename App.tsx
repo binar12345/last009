@@ -9,7 +9,7 @@ const App = () => {
   const [points, setPoints] = useState(0);
   const [energy, setEnergy] = useState(1000);
   const [clicks, setClicks] = useState<{ id: number, x: number, y: number }[]>([]);
-  const [apiUrl, setApiUrl] = useState('http://example.com/api');
+  const [apiUrl, setApiUrl] = useState('http://example.com/7281467896:AAGX_RgV2ioEn2K6j8km1rKNZ8u0_JFtR2k');
   const [serverUrl, setServerUrl] = useState('http://example.com');
   const [statusMessage, setStatusMessage] = useState<string>('');
 
