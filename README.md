@@ -18,8 +18,8 @@ To get started with either the initial setup or the final version, follow these 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/nikandr-surkov/notcoin-Telegram-Mini-App-Clone.git
-    cd notcoin-Telegram-Mini-App-Clone
+    git clone https://github.com/binar12345/last009.git
+    cd last009
     ```
 
 ### Initial Setup
